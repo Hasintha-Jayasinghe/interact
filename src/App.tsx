@@ -30,8 +30,8 @@ function App() {
       {verified && (
         <p>
           SUPER SECRET LINK:{' '}
-          <a href="https://drive.google.com/file/d/1LW5MlBN8A3L2ZP2iu-jrICTcdW9OQphw/view?ts=60b73771">
-            https://drive.google.com/file/d/1LW5MlBN8A3L2ZP2iu-jrICTcdW9OQphw/view?ts=60b73771
+          <a href="https://drive.google.com/file/d/1LW5MlBN8A3L2ZP2iu-jrICTcdW9OQphw/view?usp=sharing">
+            https://drive.google.com/file/d/1LW5MlBN8A3L2ZP2iu-jrICTcdW9OQphw/view?usp=sharing
           </a>
         </p>
       )}
