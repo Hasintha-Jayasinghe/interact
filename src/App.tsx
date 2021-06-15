@@ -18,7 +18,7 @@ function App() {
         />
         <button
           onClick={() => {
-            if (password === '1900') {
+            if (password === '252') {
               setVerified(true);
             }
           }}
